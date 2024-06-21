@@ -5,8 +5,8 @@
  *      Author: wqu3wx
  */
 #include "can_bsw.h"
-#include "can.h"
 #include "device.h"
+
 uint16_t can_getPreScaler(can_baudRate_te baudRate_e);
 uint32_t can_getRxGPIO(can_chnl_te chnl_e);
 uint32_t can_getTxGPIO(can_chnl_te chnl_e);

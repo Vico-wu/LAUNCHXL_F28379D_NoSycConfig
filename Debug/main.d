@@ -89,6 +89,7 @@ main.obj: C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/driverlib/v
 main.obj: C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/driverlib/driver_inclusive_terminology_mapping.h
 main.obj: C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/device/device.h
 main.obj: C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stddef.h
+main.obj: C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/can/can_bsw.h
 
 ../main.c:
 
@@ -267,4 +268,6 @@ C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/driverlib/driver_incl
 C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/device/device.h:
 
 C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include/stddef.h:
+
+C:/Users/WQU3WX/workspace_v12/F28379D_NoSysConfig_Demo/bsw/can/can_bsw.h:
 
